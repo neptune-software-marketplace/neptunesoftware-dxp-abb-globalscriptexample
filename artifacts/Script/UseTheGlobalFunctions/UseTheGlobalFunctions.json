@@ -1,0 +1,27 @@
+{
+	"id": "84a6f67f-bf37-4dd9-b00f-63206da40782",
+	"createdAt": "2024-04-05T14:07:22.000Z",
+	"createdBy": "admin",
+	"globalScripts": [
+		{
+			"id": "5a18e68d-1c5a-49fd-8158-4a9b635bbb1a",
+			"name": "ExampleGlobalScriptRoot - MyGlobalFunctionsExamples",
+			"contextname": "MyGlobalFunctionsExamples"
+		}
+	],
+	"externalModules": [],
+	"entitySets": [],
+	"apis": [],
+	"name": "UseTheGlobalFunctions",
+	"ver": "24.04.05.1508",
+	"description": null,
+	"folder": "",
+	"content": "file:///content.js",
+	"useAsGlobalScript": false,
+	"transpiledContent": null,
+	"lastRunSuccessful": true,
+	"isTypescript": false,
+	"language": "javascript",
+	"jsscriptGroup": "9a46b97a-2b25-4039-9eb1-9c6649f3ed1a",
+	"package": "255f5688-4ec0-45e2-8e5b-1dd75b8ade57"
+}

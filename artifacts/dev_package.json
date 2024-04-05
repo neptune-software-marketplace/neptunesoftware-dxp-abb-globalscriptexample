@@ -1,0 +1,63 @@
+{
+	"id": "255f5688-4ec0-45e2-8e5b-1dd75b8ade57",
+	"createdAt": "2024-04-05T14:05:47.000Z",
+	"createdBy": "admin",
+	"git": {
+		"remote": "https://github.com/neptune-software-marketplace/neptunesoftware-dxp-abb-globalscriptexample"
+	},
+	"name": "neptunesoftware-dxp-abb-globalscriptexample",
+	"description": null,
+	"ver": "24.04.05.1516",
+	"enableCICD": true,
+	"apps": [],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [
+		{
+			"id": "84a6f67f-bf37-4dd9-b00f-63206da40782",
+			"name": "UseTheGlobalFunctions",
+			"description": null
+		},
+		{
+			"id": "5a18e68d-1c5a-49fd-8158-4a9b635bbb1a",
+			"name": "MyGlobalFunctionsExamples",
+			"description": null
+		}
+	],
+	"jsscript_group": [
+		{
+			"id": "f8fcf7a4-fc98-4be0-a0f4-f6d20bf4ce93",
+			"name": "ExampleGlobalScriptRoot",
+			"description": ""
+		},
+		{
+			"id": "9a46b97a-2b25-4039-9eb1-9c6649f3ed1a",
+			"name": "ExampleGlobalScriptUse",
+			"description": ""
+		}
+	],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
+}
